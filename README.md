@@ -5,5 +5,8 @@ Useful workflows for Alfred.
 ## NewSpace
 Workflow for creating a new desktop space.
 
-## NewGoogeDocs
+## NewGoogleDocs
 Workflow for creating new Google docs, sheets, slides, and forms.
+
+## Search Giphy
+Search Giphy for gifs based on a search term.
