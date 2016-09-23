@@ -2,7 +2,7 @@
 
 An Alfred 3 workflow to create new Google documents, sheets, slides, or forms.
 
-![](./Images/Screenshot.PNG)
+![](https://github.com/mathewcropper/alfred/blob/master/new-google-docs/Images/Screenshot.png)
 
 ## Installation
 
