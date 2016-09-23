@@ -2,7 +2,7 @@
 
 An Alfred 3 workflow to search Giphy for gifs based on a search term.
 
-![](https://github.com/mathewcropper/alfred/blob/master/new-google-docs/Images/SearchGiphy.png)
+![](https://github.com/mathewcropper/alfred/blob/master/Search-Giphy/Images/SearchGiphy.png)
 
 ## Installation
 
