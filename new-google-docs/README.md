@@ -2,7 +2,7 @@
 
 An Alfred 3 workflow to create new Google documents, sheets, slides, or forms.
 
-![](Images/Screenshot.PNG)
+![](/Images/Screenshot.PNG)
 
 ## Installation
 
