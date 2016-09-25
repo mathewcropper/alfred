@@ -6,7 +6,7 @@ An Alfred 3 workflow for searching Giphy for gifs based on a search term.
 
 ## Installation
 
-Double click `RunJekyllServer.alfredworkflow`, that's all!
+Double click `SearchGiphy.alfredworkflow`, that's all!
 
 You may need to enable access for assistive devices. This can be found at:
 
@@ -16,10 +16,6 @@ Then click the checkbox next to Alfred.
 
 ## Usage
 
-`jekyll server`
+`gif` **+ keyword(s)**
 
-Based on the current Finder folder, start the Jekyll server in Terminal, wait a few seconds, and then open the default browser to the site home.
-
-`jekyll browser`
-
-If the Jekyll server is already running, open the default browser to the site home.
+Use the keyword followed by your search term. This will open Giphy in your browser, directly to your search results.
